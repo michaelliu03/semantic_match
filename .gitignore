@@ -1,0 +1,17 @@
+*/__pycache__/
+__pycache__/
+.vscode/
+checkpoint/
+dataset/
+dict/
+record/
+temp/
+
+*pyc
+*pdf
+*vocab
+*npy
+*zip
+*csv
+*txt
+test.py
