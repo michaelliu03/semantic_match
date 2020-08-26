@@ -24,7 +24,7 @@ class Config(object):
     vocab_path = './vocab.txt'
     file_train = './'
     file_vali = './'
-    max_seq_len = 10
+    max_seq_len = 50
     hidden_size_rnn = 100
     use_stack_rnn = False
     learning_rate = 0.001
